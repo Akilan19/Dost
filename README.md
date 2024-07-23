@@ -1,9 +1,9 @@
-# AKILL 👽
+# AKILL 🙋🏻‍♂️
 
 
 **Coding by day, creating by night 🌙💻** 
 
-## PeerPal. 🐕
+## PeerPal. 🦣
 
 😴 When COVID-19 disrupted our lives, campuses emptied, and 𝐦𝐚𝐤𝐢𝐧𝐠 𝐟𝐫𝐢𝐞𝐧𝐝𝐬 felt like an impossible mission.
 
