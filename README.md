@@ -9,7 +9,7 @@
 
 🌍 That's when I created PeerPal. This platform 𝐫𝐚𝐧𝐝𝐨𝐦𝐥𝐲 𝐩𝐚𝐢𝐫𝐬 you with fellow students from your university for engaging 𝐯𝐢𝐝𝐞𝐨 𝐜𝐚𝐥𝐥𝐬, turning isolation into connection and friendship. 🌟
 
-**Link to the website** : https://dost-1.onrender.com
+**Link to the website** : https://dost-u579.onrender.com
 
 ## Getting Started 🎧
 
