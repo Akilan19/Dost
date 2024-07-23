@@ -1,5 +1,5 @@
 {
-	"name": "Amigos",
+	"name": "PeerPal",
 	"version": "1.0.0",
 	"description": "",
 	"main": "app.js",
@@ -18,19 +18,11 @@
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/wimpywarlord/HelloFrands.git"
+		"type": "git"
 	},
 	"keywords": [
-		"kshitij",
-		"dhyani",
-		"vit",
-		"wimmpywarlrod"
+		"akill"
 	],
-	"author": "kshitij dhyani",
-	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/wimpywarlord/HelloFrands/issues"
-	},
-	"homepage": "https://github.com/wimpywarlord/HelloFrands#readme"
+	"author": "akil",
+	"license": "ISC"
 }
