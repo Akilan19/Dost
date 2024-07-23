@@ -3,6 +3,7 @@ var mongoose = require("mongoose");
 var express = require("express");
 const { v4: uuidv4 } = require("uuid");
 var app = express();
+require("dotenv").config();
 
 app.use(bodyParser.urlencoded({ extended: true }));
 express.static("public");
@@ -14,9 +15,10 @@ var user_base_schema = new mongoose.Schema({
 });
 
 var user_base = mongoose.model("user_bases", user_base_schema);
+var monogo = process.env.MONGO_URL;
 
 mongoose.connect(
-	"mongodb+srv://ynakilan:qwertyis1234@frnds1.tdlsgwt.mongodb.net/?retryWrites=true&w=majority&appName=Frnds1",
+	monogo,
 	{ dbName: "viit" },
 	function (err, res) {
 		if (err) {
